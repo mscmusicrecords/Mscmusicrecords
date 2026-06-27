@@ -1,4 +1,10 @@
-## Hi there 👋
+Você pode usar esta descrição como repositório no Drift Hub:
+
+Repositório Oficial – Maykon Campos | MSc Music Records
+
+Este repositório reúne todos os conteúdos oficiais de Maykon Campos e da MSc Music Records. Aqui você encontrará lançamentos musicais, singles, EPs, álbuns, videoclipes, capas, artes promocionais, tracklists, letras, releases, links de pré-save, materiais de divulgação, calendário de lançamentos, informações sobre shows, projetos especiais e outros conteúdos relacionados à carreira artística.
+
+O objetivo é manter todos os arquivos e informações organizados em um único local, facilitando o acesso, a atualização e a integração com bots e outras plataformas.
 
 <!--
 **mscmusicrecords/Mscmusicrecords** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
